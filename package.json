@@ -1,0 +1,22 @@
+{
+  "name": "catalog-model-convert-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for catalog-model-convert: convert a model identifier between vendor catalogs.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "catalog-model-convert": "0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/catalog-model-convert.git"
+  },
+  "homepage": "https://www.npmjs.com/package/catalog-model-convert"
+}

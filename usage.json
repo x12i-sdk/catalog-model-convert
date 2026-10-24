@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "catalog-model-convert",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/catalog-model-convert",
+  "usageRepository": "https://github.com/x12i-sdk/catalog-model-convert",
+  "sourceRepository": "https://github.com/x12i/ai-profiles",
+  "sourceCommit": "8efd4dc11dfaacab2ceef9f030a4a3fa7da00800",
+  "sourcePackageDirectory": "packages/catalog-model-convert",
+  "example": {
+    "title": "Convert a model identifier between vendor catalogs",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:32:57.698659+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "58bd4bf53f87410248a85c7fe98f80a188a2fd282b232b9b92314a4039cb549a",
+    "manifestSha256": "b461d30956757e4e85d70de5352380b8462d4ac73b1fa7fa8985c324bf324926"
+  }
+}
