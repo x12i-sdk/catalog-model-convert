@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Convert AI model IDs between catalog vendors (OpenRouter, OfoxAI, APIMart, Haimaker, AI/ML API, AWS, Azure, Cloudflare).
-- A Catalog tools integration needs to reuse the capabilities of catalog-model-convert inside a larger application.
+- Translate a known model identifier from one supported catalog vendor to another.
+- Detect an unavailable conversion instead of constructing a provider model ID by guesswork.
 
 ## Links
 
